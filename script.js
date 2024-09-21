@@ -1,5 +1,5 @@
 const box = document.querySelector(".box");
-const toDoBox = document.querySelector("#to-do-box");
+const toDoBox = document.querySelector("#toDoBox");
 
 box.addEventListener(
     "keyup",
